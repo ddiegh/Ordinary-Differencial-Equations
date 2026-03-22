@@ -1,7 +1,7 @@
 from numpy import linspace, meshgrid, sqrt
 import matplotlib.pyplot as plt
 
-def soluciones(lambda1, lambda2):
+def soluciones_diagonales(lambda1, lambda2):
     # Intervalos
     x_range = linspace(-10, 10, 100)
     y_range = linspace(-10, 10, 100)
