@@ -1,7 +1,7 @@
 #se usará numpy para facilitar todo lo relacionado a los calculos vectoriales
 from numpy import linalg, linspace, meshgrid, sqrt, array
 from math import floor, ceil
-from _02matrices_diagonales import soluciones_diagonales
+from _01matrices_diagonales import soluciones_diagonales
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors 
 
