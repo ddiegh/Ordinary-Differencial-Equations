@@ -59,3 +59,10 @@ def soluciones(a,b,c,d):
     plt.legend()
     plt.show()
     return
+
+
+#Aqui las pruebas 
+def main(a,b,c,d):
+    soluciones(a,b,c,d)
+if __name__ == "__main__":
+    main(1,1,4,1)
